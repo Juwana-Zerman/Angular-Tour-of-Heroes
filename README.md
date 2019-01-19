@@ -1,6 +1,6 @@
 # AngularTourOfHeroes
 
-## View live version here[<https://jzerman2018.github.io/Angular-Tour-of-Heroes/dashboard>]
+## View live version here[<https://jzerman2018.github.io/Angular-Tour-of-Heroes/dashboard]>
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.1.4.
 
